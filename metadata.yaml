@@ -1,0 +1,46 @@
+_repo: First-at-the-North-Pole--Or-Two-Boys-in-the-Arctic-Circle_38968
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nuttall, Charles
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '39751'
+    url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 38968-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: There has been a lot of debate among historians about which explorers
+  were actually the first to reach the North Pole. What if a pair of plucky youths
+  bore that honor? That's the premise behind Edward Stratemeyer's action-adventure
+  classic, First at the North Pole. Fans of golden-era juvenile fiction will relish
+  this rollicking tale.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Discovery and exploration -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'North Pole -- Juvenile fiction'
+title: First at the North Pole; Or, Two Boys in the Arctic Circle
+url: http://www.gutenberg.org/ebooks/38968
